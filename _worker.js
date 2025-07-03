@@ -2,7 +2,7 @@ import { connect } from 'cloudflare:sockets';
 // t.me/P_tech2024 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = '2cd61524-9843-43ab-8a0a-df4a744bb859';
+let userID = '0197d291-5974-7105-b46b-bab3dad8813a';
 
 const proxyIPs = ['mtn.ircf.space', 'mkh.ircf.space', 'mci.ircf.space', 'rtl.ircf.space'];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
@@ -18,7 +18,7 @@ let dohURL = 'https://1.1.1.1/dns-query';
 // now deprecated, please use planetscale.com instead
 let nodeId = ''; // 1
 
-let apiToken = ''; //abcdefghijklmnopqrstuvwxyz123456
+let apiToken = 'lTji2H4opZTf8oNnha19CeMHYUL3JQ1tjokQvyNO'; //abcdefghijklmnopqrstuvwxyz123456
 
 let apiHost = ''; // api.v2board.com
 
